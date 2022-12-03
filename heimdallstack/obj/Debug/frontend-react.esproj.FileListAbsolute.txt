@@ -1,0 +1,2 @@
+C:\Users\Karst\source\repos\HeimdallStack\HeimdallStack\obj\Debug\frontend-react.esproj.SuggestedBindingRedirects.cache
+C:\Users\Karst\source\repos\HeimdallStack\HeimdallStack\obj\Debug\frontend-react.esproj.CoreCompileInputs.cache

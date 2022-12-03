@@ -1,0 +1,14 @@
+C:\Users\Karst\source\repos\HeimdallStack\backend.data\bin\Debug\net6.0\backend.data.deps.json
+C:\Users\Karst\source\repos\HeimdallStack\backend.data\bin\Debug\net6.0\backend.data.runtimeconfig.json
+C:\Users\Karst\source\repos\HeimdallStack\backend.data\bin\Debug\net6.0\backend.data.dll
+C:\Users\Karst\source\repos\HeimdallStack\backend.data\bin\Debug\net6.0\backend.data.pdb
+C:\Users\Karst\source\repos\HeimdallStack\backend.data\obj\Debug\net6.0\backend.data.csproj.AssemblyReference.cache
+C:\Users\Karst\source\repos\HeimdallStack\backend.data\obj\Debug\net6.0\backend.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karst\source\repos\HeimdallStack\backend.data\obj\Debug\net6.0\backend.data.AssemblyInfoInputs.cache
+C:\Users\Karst\source\repos\HeimdallStack\backend.data\obj\Debug\net6.0\backend.data.AssemblyInfo.cs
+C:\Users\Karst\source\repos\HeimdallStack\backend.data\obj\Debug\net6.0\backend.data.csproj.CoreCompileInputs.cache
+C:\Users\Karst\source\repos\HeimdallStack\backend.data\obj\Debug\net6.0\backend.data.dll
+C:\Users\Karst\source\repos\HeimdallStack\backend.data\obj\Debug\net6.0\refint\backend.data.dll
+C:\Users\Karst\source\repos\HeimdallStack\backend.data\obj\Debug\net6.0\backend.data.pdb
+C:\Users\Karst\source\repos\HeimdallStack\backend.data\obj\Debug\net6.0\backend.data.genruntimeconfig.cache
+C:\Users\Karst\source\repos\HeimdallStack\backend.data\obj\Debug\net6.0\ref\backend.data.dll
