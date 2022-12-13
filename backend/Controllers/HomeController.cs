@@ -15,16 +15,15 @@ namespace backend.Controllers
 
         }
 
-        public IActionResult Index()
+        public List<WorkInstructionSet> GetWorkInstructions()
         {
-            var WorkInstructionSet = this.context.WorkInstructionSets.Include(I => I.InstructionSet).Select(I => new WorkInstructionViewModel
-            {
-                Title = I.Title,
-                Description = I.Description,
-                InstructionSet = I.InstructionSet,
+            return context.WorkInstructionSets.Include(I => I.InstructionSet).ToList();
 
-            });
-            return View(WorkInstructionSet);
+        }
+
+        public List<string> GetAllWorkInstructions()
+        {
+            return context.WorkInstructionSets.Select(I => I.Title).ToList();
         }
     }
 }
